@@ -1,0 +1,48 @@
+.run {
+  text-align: center;
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+}
+
+.startBtn {
+  padding: 15px 30px;
+  margin: 20px;
+  background-color: green;
+  border-radius: 10px;
+  color: white;
+  font-weight: 700;
+  border: none;
+  outline-style: none;
+}
+
+.pauseBtn {
+  padding: 15px 30px;
+  margin: 20px;
+  background-color: red;
+  border-radius: 10px;
+  color: white;
+  font-weight: 900;
+  border: none;
+  outline-style: none;
+}
+.resetBtn {
+  padding: 15px 30px;
+  margin: 20px;
+  font-weight: 900;
+  background-color: rgb(216, 219, 14);
+  border-radius: 10px;
+
+  border: none;
+  outline-style: none;
+}
+
+
+ 
+ 
+  
+
+  
+  
